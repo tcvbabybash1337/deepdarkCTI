@@ -1,6 +1,6 @@
 |Telegram|Status|Name|
 | ------ | ------ | ------ |
-|https://t.me/+8DxOrHQdrzw1ZjUy|VALID| GODELESS CLOUD Botnet Logs|
+|https://t.me/+1337|ONLINE| Hacker Darkweb CTI|
 |https://t.me/+fcxhFl9JSRE3YTdi|VALID| HUBHEAD Logs|
 |https://t.me/+lTv-USNAHHIwODE6|ONLINE|.boxed.pw|
 |https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
