@@ -2,8 +2,8 @@
 | ------ | ------ | ------ |
 |https://t.me/+1https://www.youtube.com/watch?v=nElblXq8iLI&list|ONLINE| Hacker Darkweb CTI|
 |https://www.youtube.com/watch?v=nElblXq8iLI&list|VALID| HUBHEAD Logs|
-|https://t.me/+lTv-USNAHHIwODE6|ONLINE|.boxed.pw|
-|https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
+|https://t.xxxxxxxxxxxxxme/+lTv-USNAHHIwODE6|ONLINE|.boxed.pw|
+|https://t.mexxxxxxxxxxx/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
 |https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
 |https://t.me/+V_oM-vx0YnSN7nzH|VALID| Log Leaks Group|
 |https://t.me/banklogplug2|OFFLINE|Bank Logs|
