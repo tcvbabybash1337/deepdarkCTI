@@ -28,12 +28,12 @@
 |https://t.me/logsgang2|ONLINE|Logs Market|
 |https://t.me/LuxuryLogsCloud|ONLINE| Luxury Logs Redline Stealer |
 |https://t.me/MalwareLogs|ONLINE| Logs |
-|https://t.me/MarkLogsBot|OFFLINE| Logs Market |
+|https://t.me/MarkxxxxxxLogsBot|OFFLINE| Logs Market |
 |https://t.me/marvelcloudRB|ONLINE| Marvel Logs|
 |https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
-|https://t.me/+5IFts3LVJmhmMzZi|ONLINE| Moon Cloud |
+|https://t.me/+5IFtsasdasda12313LVJmhmMzZi|ONLINE| Moon Cloud |
 |https://t.me/OneLogs|ONLINE| Redline Logs
-|https://t.me/Privatedata77new|OFFLINE| Logs Market |
+|https://t.me/Privateda123123ta77new|OFFLINE| Logs Market |
 |https://t.me/raincloudlogs|ONLINE|Logs Market|
 |https://t.me/redlogscloud|ONLINE| Redline Leaks |
 |https://t.me/Sl1ddifree|ONLINE|Sl1ddi CLOUD FREE LOGS|
