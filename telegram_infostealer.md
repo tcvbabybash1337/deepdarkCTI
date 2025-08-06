@@ -4,7 +4,7 @@
 |https://www.youtube.com/watch?v=nElblXq8iLI&list|VALID| HUBHEAD Logs|
 |https://t.xxxxxxxxxxxxxme/+lTv-USNAHHIwODE6|ONLINE|.boxed.pw|
 |https://t.mexxxxxxxxxxx/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
-|https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
+|https://www.youtube.com/watch?v=6ZYf-vwZ1Uw&list=RDMM&index=11|VALID| Goblin's Free Logs |
 |https://t.me/+V_oM-vx0YnSN7nzH|VALID| Log Leaks Group|
 |https://t.me/banklogplug2|OFFLINE|Bank Logs|
 |https://t.me/berserklogs|ONLINE| Redline Stealer |
@@ -15,7 +15,7 @@
 |https://t.me/cloudlogs|ONLINE| Redline LogZone
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
-|https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
+|https://t.me/database_leak|ONLINE|Leaked Database & Fresh Logxxxxxxxxxxxxxs|
 |https://t.me/eliteband|OFFLINE| Logs |
 |https://t.me/fatecloud|ONLINE| Fatecloud Logs|
 |https://t.me/frilogs|OFFLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
