@@ -1,7 +1,7 @@
 |Telegram|Status|Name|
 | ------ | ------ | ------ |
-|https://t.me/+133773|ONLINE| Hacker Darkweb CTI|
-|https://t.me/+fcxhFl9JSRE3YTdi|VALID| HUBHEAD Logs|
+|https://t.me/+1https://www.youtube.com/watch?v=nElblXq8iLI&list|ONLINE| Hacker Darkweb CTI|
+|https://www.youtube.com/watch?v=nElblXq8iLI&list|VALID| HUBHEAD Logs|
 |https://t.me/+lTv-USNAHHIwODE6|ONLINE|.boxed.pw|
 |https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
 |https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
