@@ -16,16 +16,16 @@
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Logxxxxxxxxxxxxxs|
-|https://t.me/eliteband|OFxxxxxxxxFLINE| Logs |
+|https://t.me/xxxxxxxxxxxxxme|OFxxxxxxxxFLINE| Logs |
 |https://t.me/fatecloud|ONLINE| Fatecloud Logs|
 |https://t.me/frilogs|OFFLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
 |https://t.me/HUBLOGS|OFFLINE| Redline Malware Logs |
 |https://t.me/joinchat/aLzjwn_93JtkMDA8|VALID| Logs Market|
-|https://t.me/joinchat/Cyv2m5zFE6JmMjVi|VALID| Logs |
+|https://t.me/joinchat/xxxxxxxxxxxxxme|VALID| Logs |
 |https://t.me/joinchat/ZST8YodAuzo2NGVk|VALID|Logs Market|
 |https://t.me/leaklogs_official|ONLINE|LeakLogs Official|
 |https://t.me/Log_Market_Place|ONLINE| Data Leaks|
-|https://t.me/logsgang2|ONLINE|Logs Market|
+|https://t.me/xxxxxxxxxxxxxme|ONLINE|Logs Market|
 |https://t.me/LuxuryLogsCloud|ONLINE| Luxury Logs Redline Stealer |
 |https://t.me/MalwareLogs|ONLINE| Logs |
 |https://t.me/MarkxxxxxxLogsBot|OFFLINE| Logs Market |

@@ -12,7 +12,7 @@
 |https://t.me/+9ETFYLy5Tc1lNzBh|VALID|Ares private channel||
 |https://t.me/+9P5FQ85afTc4NGNl|VALID|Goblin's Database||
 |https://t.me/+_d-aW--RLXszYmU0|VALID|Openbullet Config Service||
-|https://t.me/+AAAAAEedZM6cBNj764phgQ|EXPIRED|Large Hacking Group||
+|https://t.me/+xxxxxxxxxxxxxme|EXPIRED|Large Hacking Group||
 |https://t.me/+AAAAAFGhhcV9p1Rm2f_Emw|EXPIRED|||
 |https://t.me/+AAAAAFNLmVP0ZCy51tNOig|VALID|Forum||
 |https://t.me/+aC3mHL9kVhBhNzM1|VALID|Okto Dark Cyber Squad||
@@ -21,12 +21,12 @@
 |https://t.me/+BnYEQZsweIRlZThh|EXPIRED|R3An0nymous Chat|DDoS|
 |https://t.me/+ceva_DohRgphMmUy|VALID|Inteid|DDoS|
 |https://t.me/+D6JQaDHEzgNiZTEy|EXPIRED|NoName057(16) Spain🇪🇦 - april 2025|DDoS|
-|https://t.me/+DLb_tfrPeE4wNDM8|EXPIRED|Biskooit Pedar||
+|https://t.me/+xxxxxxxxxxxxxme|EXPIRED|Biskooit Pedar||
 |https://t.me/+DZRa-yXaHZ81MmNk|EXPIRED|Handala Hack|Leaks & Breaches|
 |https://t.me/+E0eng43CkZowMTdl|EXPIRED|BF Repo V3 Files||
 |https://t.me/+EIcRadoe2JMzNDdk|EXPIRED|AnonPioneers|DDoS|
 |https://t.me/+eOtgrt4gB68wM2Qy|EXPIRED|Atlantis Cyber Army A.I.G. - backup||
-|https://t.me/+eRl4m-fdPl8yZTUx|EXPIRED|Snatch channel||
+|https://t.me/xxxxxxxxxxxxxme|EXPIRED|Snatch channel||
 |https://t.me/+f6HgnXuFRiIxMzhk|VALID|Pro Team Channel|combos|
 |https://t.me/+FbcbdaQ7lekzYzU1|EXPIRED|TWO NET|DDoS|
 |https://t.me/+fl1bRIDYGAM2MGVl|EXPIRED|GARUDA ERROR SYSTEM|DDoS|
