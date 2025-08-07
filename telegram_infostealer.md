@@ -8,7 +8,7 @@
 |https://t.me/+V_oM-vx0YnSN7nzH|VALID| Log Leaks Group|
 |https://t.me/banklogplug2|OFFLINE|Bank Logs|
 |https://t.me/berserklogs|ONLINE| Redline Stealer |
-|https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
+|https://t.me/telegram_infostealer|ONLINE| Test Notification Infostealer |
 |https://t.me/bradmax_cloud|OFFLINE| Redline and Raccoon Data Logs |
 |https://t.me/cbanke_logs|ONLINE| Log Leaks Channel|
 |https://t.me/CloudLogsPrivate|OFFLINE| UnixSeller89 Redline Stealer |
