@@ -12,7 +12,7 @@
 |https://t.me/bradmax_cloud|OFFLINE| Redline and Raccoon Data Logs |
 |https://t.me/cbanke_logs|ONLINE| Log Leaks Channel|
 |https://t.me/CloudLogsPrivate|OFFLINE| UnixSeller89 Redline Stealer |
-|https://t.me/cloudlogs|ONLINE| Redline LogZone
+|https://t.me/pentester|ONLINE| Mrm3m31337Hacker
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Logxxxxxxxxxxxxxs|
@@ -31,7 +31,7 @@
 |https://t.me/MarkxxxxxxLogsBot|OFFLINE| Logs Market |
 |https://t.me/marvelcloudRB|ONLINE| Marvel Logs|
 |https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
-|https://t.me/+5IFtsasdasda12313LVJmhmMzZi|ONLINE| Moon Cloud |
+|https://t.me/+5IFtsasdasda12313LVJmhmMzZi|ONLqwINE| Moon Cloud |
 |https://t.me/OneLogs|ONLINE| Redline Logs
 |https://t.me/Privateda123123ta77new|OFFLINE| Logs Market |
 |https://t.me/raincloudlogs|ONLINE|Logs Market|
