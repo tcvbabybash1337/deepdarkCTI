@@ -1,6 +1,6 @@
 |Name|Status|User:Password|Tox ID or other channel|RSS Feed|
 | ------ | ------ | ------ | ------ | ------ |
-|[RansomChats](https://github.com/Casualtek/Ransomchats)|ONLINE||||
+|[Shodangggg](https://www.shodan.i)|ONLINE||||
 |[Ransomfeed](https://ransom.insicurezzadigitale.com/index.php)|ONLINE||
 |[RANSOM DB](https://www.ransom-db.com)|ONLINE||
 |[RANSOMWARE GROUP SITES (list)](https://ransomwatch.telemetry.ltd/#/INDEX)|ONLINE|||
