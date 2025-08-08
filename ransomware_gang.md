@@ -1,8 +1,9 @@
 |Name|Status|User:Password|Tox ID or other channel|RSS Feed|
 | ------ | ------ | ------ | ------ | ------ |
-|[Shodangggg](https://www.shodan.i)|ONLINE||||
+|[Shodangggg](https://www.shodan.io/)|ONLINE||||
 |[Ransomfeed](https://ransom.insicurezzadigitale.com/index.php)|ONLINE||
 |[RANSOM DB](https://www.ransom-db.com)|ONLINE||
+|[RANSOM X](https://example.com)|ONLINE||
 |[RANSOMWARE GROUP SITES (list)](https://ransomwatch.telemetry.ltd/#/INDEX)|ONLINE|||
 |[RANSOMWARE GROUP SITES (list)](http://thexfvx7hqcrpgtm.onion)|OFFLINE|||
 |[RANSOMWARE GROUP SITES (list)](http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion)|ONLINE|||
